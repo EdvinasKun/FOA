@@ -1,0 +1,17 @@
+.af_name {
+    text-align: left;
+    font-weight: 700;
+    color: var(--mainColor);
+}
+
+.cf-icon {
+    color: #e7e7e7;
+    font-size: 1.438rem;
+    position: absolute;
+    left: 1rem;
+    top: 0.625rem;
+}
+
+td {
+    padding-top: 5rem;
+}
